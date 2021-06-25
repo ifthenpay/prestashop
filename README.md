@@ -1,6 +1,6 @@
 Ifthenpay module for PrestaShop
 ==============
-![Ifthenpay](https://ifthenpay.com/images/all_payments_logo.png)
+![Ifthenpay](https://ifthenpay.com/images/all_payments_logo_final.png)
 
 **This is the Ifthenpay module for PrestaShop CMS**
 
